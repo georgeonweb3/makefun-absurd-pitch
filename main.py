@@ -10,8 +10,8 @@ Stdlib only, deterministic, no network.
 import os
 
 ENTRY = (
-    "The Guilt-Trip Plant Pot texts your mum every time you forget to water "
-    "the plant, so your neglect gets reported to the highest authority."
+    "The Guilt-Trip Plant Pot waters itself and then texts your mum anyway, "
+    "so the plant survives and you still get told off."
 )
 
 
